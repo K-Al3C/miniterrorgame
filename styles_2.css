@@ -1,0 +1,50 @@
+body{
+  font-family:fantasy;
+  font-size: 30;
+  margin-left: 60;
+  width: 80%;
+  background-size: cover;
+ color: white;
+}
+#home{
+    background-image:url(images/LaCasaSustos.jpg);
+}
+#room{
+ background-image: url(images/clown.jpg);
+}
+#end{
+  background-image: url(images/grave.jpg);
+  background-size: contain;
+  text-align:center;
+  margin-top: 450;
+  font-size: 50;
+  font-family: bold;
+  letter-spacing: 6;
+  margin-left: 20;
+}
+#room2{
+background-image: url(images/zombie.jpg);
+background-size: cover;
+margin-left: 1000;
+font-family: bold;
+color: firebrick;
+font-size: 80; 
+}
+a{
+    font-size:30;
+    align-content: center;
+    color: white;
+}
+img{
+border-right: 40%;
+margin-right: 24;
+}
+p2{
+    margin-left: 70;
+    letter-spacing:4;
+    word-spacing: 120;
+}
+#room3{
+background-image: url(images/nope.jpg);
+background-size:cover;
+}
